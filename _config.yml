@@ -1,11 +1,11 @@
 # Site settings
 author: Karen Ercoli
-title: ER Script
+title: Why coding?
 header-img: img/home-bg.png
 email: karenercoli@gmail.com
 copyright_name: Karen Ercoli
 description: > # this means to ignore newlines until "baseurl:"
-  from zero to hero? we'll soon find out
+  Will I go from zero to hero? We'll soon find out!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kodekaren
